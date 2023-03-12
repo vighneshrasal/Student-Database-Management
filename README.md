@@ -1,4 +1,4 @@
-# Student-Database-Management(This is currently under development)
+# Student-Database-Management
 In this Java programe I have created a Student Database Management System. The System will involve no. of Students, their name, course, student id, grade year, cost of course, and their payment of courses.
 
 1. The number of students need to enter thier data.
